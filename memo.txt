@@ -1,0 +1,10 @@
+git init
+git commit -m "완성"
+
+https://github.com/guiltygear12/MyResume.git
+
+git branch -m master
+
+git remote add origin https://github.com/guiltygear12/MyResume.git
+
+git push -u origin master
